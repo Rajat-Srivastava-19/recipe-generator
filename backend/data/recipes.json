@@ -1,0 +1,202 @@
+[
+  {
+    "id": "1",
+    "title": "Tomato Pasta",
+    "description": "Delicious homemade tomato pasta with cheese.",
+    "image": "https://source.unsplash.com/400x300/?pasta",
+    "ingredients": ["Tomato", "Pasta", "Cheese", "Olive Oil"],
+    "instructions": "Boil pasta, cook tomato sauce, mix and serve."
+  },
+  {
+    "id": "2",
+    "title": "Cheese Sandwich",
+    "description": "Quick grilled cheese sandwich.",
+    "image": "https://source.unsplash.com/400x300/?sandwich",
+    "ingredients": ["Bread", "Cheese", "Butter"],
+    "instructions": "Grill bread with butter and cheese."
+  },
+  {
+    "id": "3",
+    "title": "Veggie Salad",
+    "description": "Fresh vegetable salad with a light dressing.",
+    "image": "https://source.unsplash.com/400x300/?salad",
+    "ingredients": ["Lettuce", "Tomato", "Cucumber", "Olive Oil", "Lemon Juice"],
+    "instructions": "Chop veggies, mix with dressing, and serve."
+  },
+  {
+    "id": "4",
+    "title": "Chinese Fried Rice",
+    "description": "Chinese Fried Rice with vegetables and a drizzle of soy sauce.",
+    "image": "https://source.unsplash.com/400x300/?friedrice",
+    "ingredients": ["Rice", "Mixed Vegetables", "Soy Sauce", "Eggs", "Green Onions"],
+    "instructions": "Stir-fry vegetables, add rice and soy sauce, cook eggs separately and mix in."
+  },
+  {
+    "id": "5",
+    "title": "Chicken Curry",
+    "description": "Spicy chicken curry with a rich gravy.",
+    "image": "https://source.unsplash.com/400x300/?chickencurry",
+    "ingredients": ["Chicken", "Onions", "Tomatoes", "Garlic", "Spices"],
+    "instructions": "Sauté onions and garlic, add spices, cook chicken and tomatoes until done."
+  },
+  {
+    "id": "6",
+    "title": "Paneer Butter Masala",
+    "description": "Creamy paneer curry with tomato-based gravy.",
+    "image": "https://source.unsplash.com/400x300/?paneer",
+    "ingredients": ["Paneer", "Butter", "Tomatoes", "Cream", "Spices"],
+    "instructions": "Cook tomatoes with spices, add paneer and cream, simmer."
+  },
+  {
+    "id": "7",
+    "title": "Veggie Pizza",
+    "description": "Homemade pizza topped with fresh vegetables and cheese.",
+    "image": "https://source.unsplash.com/400x300/?pizza",
+    "ingredients": ["Pizza Base", "Cheese", "Bell Peppers", "Onions", "Tomato Sauce"],
+    "instructions": "Spread sauce on base, add veggies and cheese, bake until golden."
+  },
+  {
+    "id": "8",
+    "title": "Aloo Paratha",
+    "description": "Stuffed Indian bread with spiced mashed potatoes.",
+    "image": "https://source.unsplash.com/400x300/?paratha",
+    "ingredients": ["Wheat Flour", "Potatoes", "Spices", "Butter"],
+    "instructions": "Stuff dough with spiced potato mix, roll and cook on pan with butter."
+  },
+  {
+    "id": "9",
+    "title": "Masala Dosa",
+    "description": "Crispy dosa stuffed with spiced potato filling.",
+    "image": "https://source.unsplash.com/400x300/?dosa",
+    "ingredients": ["Rice Batter", "Potatoes", "Onions", "Spices"],
+    "instructions": "Spread dosa batter, stuff with potato filling, fold and serve."
+  },
+  {
+    "id": "10",
+    "title": "Idli Sambar",
+    "description": "Soft idlis served with tangy lentil sambar.",
+    "image": "https://source.unsplash.com/400x300/?idli",
+    "ingredients": ["Rice Batter", "Lentils", "Tamarind", "Vegetables", "Spices"],
+    "instructions": "Steam idlis, cook sambar with lentils, tamarind and vegetables, serve together."
+  },
+  {
+    "id": "11",
+    "title": "Pancakes",
+    "description": "Fluffy pancakes with syrup.",
+    "image": "https://source.unsplash.com/400x300/?pancakes",
+    "ingredients": ["Flour", "Milk", "Eggs", "Sugar", "Butter"],
+    "instructions": "Mix batter, cook pancakes on pan, serve with syrup."
+  },
+  {
+    "id": "12",
+    "title": "Omelette",
+    "description": "Quick egg omelette with veggies.",
+    "image": "https://source.unsplash.com/400x300/?omelette",
+    "ingredients": ["Eggs", "Onions", "Tomatoes", "Spices", "Oil"],
+    "instructions": "Beat eggs with veggies and spices, cook on pan with oil."
+  },
+  {
+    "id": "13",
+    "title": "Biryani",
+    "description": "Fragrant rice dish with spices and chicken/vegetables.",
+    "image": "https://source.unsplash.com/400x300/?biryani",
+    "ingredients": ["Rice", "Chicken", "Vegetables", "Spices", "Yogurt"],
+    "instructions": "Cook rice with spices, layer with chicken/veggies, steam cook."
+  },
+  {
+    "id": "14",
+    "title": "Rajma Chawal",
+    "description": "Kidney beans curry served with rice.",
+    "image": "https://source.unsplash.com/400x300/?rajma",
+    "ingredients": ["Kidney Beans", "Onions", "Tomatoes", "Spices", "Rice"],
+    "instructions": "Cook rajma with onions, tomatoes and spices, serve with rice."
+  },
+  {
+    "id": "15",
+    "title": "Chole Bhature",
+    "description": "Spicy chickpeas with fried bread.",
+    "image": "https://source.unsplash.com/400x300/?chole",
+    "ingredients": ["Chickpeas", "Onions", "Tomatoes", "Spices", "Flour"],
+    "instructions": "Cook chole with spices, fry bhature and serve together."
+  },
+  {
+    "id": "16",
+    "title": "Dal Tadka",
+    "description": "Lentils cooked with spices and tempered with ghee.",
+    "image": "https://source.unsplash.com/400x300/?dal",
+    "ingredients": ["Lentils", "Onions", "Tomatoes", "Spices", "Ghee"],
+    "instructions": "Cook lentils, prepare tadka with ghee and spices, pour over dal."
+  },
+  {
+    "id": "17",
+    "title": "Butter Chicken",
+    "description": "Rich and creamy butter chicken curry.",
+    "image": "https://source.unsplash.com/400x300/?butterchicken",
+    "ingredients": ["Chicken", "Butter", "Tomatoes", "Cream", "Spices"],
+    "instructions": "Cook chicken with spices, add butter, cream and tomato gravy."
+  },
+  {
+    "id": "18",
+    "title": "Palak Paneer",
+    "description": "Spinach curry with paneer cubes.",
+    "image": "https://source.unsplash.com/400x300/?palakpaneer",
+    "ingredients": ["Spinach", "Paneer", "Onions", "Tomatoes", "Spices"],
+    "instructions": "Cook spinach with spices, add paneer cubes, simmer."
+  },
+  {
+    "id": "19",
+    "title": "Fish Curry",
+    "description": "Spicy fish curry with coconut milk.",
+    "image": "https://source.unsplash.com/400x300/?fishcurry",
+    "ingredients": ["Fish", "Coconut Milk", "Onions", "Tomatoes", "Spices"],
+    "instructions": "Cook fish in coconut milk curry with spices."
+  },
+  {
+    "id": "20",
+    "title": "Momos",
+    "description": "Steamed dumplings with vegetable or chicken filling.",
+    "image": "https://source.unsplash.com/400x300/?momos",
+    "ingredients": ["Flour", "Vegetables", "Chicken", "Spices"],
+    "instructions": "Prepare filling, stuff in dough, steam until cooked."
+  },
+  {
+    "id": "21",
+    "title": "Spring Rolls",
+    "description": "Crispy fried rolls with vegetable stuffing.",
+    "image": "https://source.unsplash.com/400x300/?springrolls",
+    "ingredients": ["Spring Roll Sheets", "Vegetables", "Soy Sauce", "Oil"],
+    "instructions": "Stuff sheets with veggies, roll and deep fry."
+  },
+  {
+    "id": "22",
+    "title": "Pav Bhaji",
+    "description": "Spicy mashed vegetable curry served with buttered pav.",
+    "image": "https://source.unsplash.com/400x300/?pavbhaji",
+    "ingredients": ["Potatoes", "Peas", "Carrots", "Onions", "Pav Bread", "Butter"],
+    "instructions": "Cook veggies with spices, mash, serve with buttered pav."
+  },
+  {
+    "id": "23",
+    "title": "Gulab Jamun",
+    "description": "Sweet deep-fried dumplings soaked in sugar syrup.",
+    "image": "https://source.unsplash.com/400x300/?gulabjamun",
+    "ingredients": ["Milk Powder", "Flour", "Sugar", "Cardamom"],
+    "instructions": "Prepare dough, fry balls, soak in sugar syrup."
+  },
+  {
+    "id": "24",
+    "title": "Rasgulla",
+    "description": "Soft and spongy Bengali sweet.",
+    "image": "https://source.unsplash.com/400x300/?rasgulla",
+    "ingredients": ["Milk", "Sugar", "Lemon Juice"],
+    "instructions": "Prepare chenna from milk, shape into balls, cook in sugar syrup."
+  },
+  {
+    "id": "25",
+    "title": "Kheer",
+    "description": "Traditional Indian rice pudding dessert.",
+    "image": "https://source.unsplash.com/400x300/?kheer",
+    "ingredients": ["Rice", "Milk", "Sugar", "Cardamom", "Nuts"],
+    "instructions": "Cook rice in milk, add sugar, cardamom and garnish with nuts."
+  }
+]
